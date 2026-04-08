@@ -9,7 +9,7 @@ sites:
     url: https://app.diffyne.com
   
   - name: Backend API
-    url: https://api.diffyne.com/api/health
+    url: https://api.diffyne.com/health
     method: GET
   
   - name: Changelog Widget
@@ -17,7 +17,7 @@ sites:
     method: GET
 
 status-website:
-  cname: status.diffyne.com
+  cname: ping.diffyne.com
   logoUrl: https://app.diffyne.com/logo-white.png
   title: Diffyne Status
   name: Diffyne Status
