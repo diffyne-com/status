@@ -29,7 +29,7 @@ status-website:
     - title: Dashboard
       href: https://app.diffyne.com
 
-  customCss: |
+  css: |
     :root {
       --color-primary: #22c55e;
       --color-success: #22c55e;
