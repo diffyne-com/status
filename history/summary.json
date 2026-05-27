@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 226,
-    "timeDay": 117,
-    "timeWeek": 157,
-    "timeMonth": 205,
-    "timeYear": 226,
+    "time": 225,
+    "timeDay": 172,
+    "timeWeek": 154,
+    "timeMonth": 203,
+    "timeYear": 225,
     "dailyMinutesDown": {
       "2026-04-22": 57
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 209,
-    "timeDay": 227,
-    "timeWeek": 206,
+    "time": 208,
+    "timeDay": 169,
+    "timeWeek": 174,
     "timeMonth": 207,
-    "timeYear": 209,
+    "timeYear": 208,
     "dailyMinutesDown": {}
   },
   {
@@ -43,16 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.diffyne.com.ico",
     "slug": "backend-api",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.87%",
-    "time": 248,
-    "timeDay": 133,
-    "timeWeek": 236,
-    "timeMonth": 263,
-    "timeYear": 248,
+    "uptimeYear": "99.88%",
+    "time": 247,
+    "timeDay": 190,
+    "timeWeek": 203,
+    "timeMonth": 262,
+    "timeYear": 247,
     "dailyMinutesDown": {
       "2026-04-25": 33,
       "2026-04-10": 54
@@ -69,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 101,
-    "timeDay": 40,
-    "timeWeek": 86,
-    "timeMonth": 101,
-    "timeYear": 101,
+    "time": 100,
+    "timeDay": 11,
+    "timeWeek": 85,
+    "timeMonth": 100,
+    "timeYear": 100,
     "dailyMinutesDown": {
       "2026-04-10": 52
     }
