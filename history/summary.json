@@ -42,20 +42,21 @@
     "url": "https://api.diffyne.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.diffyne.com.ico",
     "slug": "backend-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 244,
-    "timeDay": 158,
-    "timeWeek": 233,
-    "timeMonth": 236,
-    "timeYear": 244,
+    "time": 242,
+    "timeDay": 101,
+    "timeWeek": 209,
+    "timeMonth": 230,
+    "timeYear": 242,
     "dailyMinutesDown": {
       "2026-04-10": 54,
-      "2026-04-25": 33
+      "2026-04-25": 33,
+      "2026-08-25": 0
     }
   },
   {
@@ -63,19 +64,20 @@
     "url": "https://api.diffyne.com/widget.js",
     "icon": "https://icons.duckduckgo.com/ip3/api.diffyne.com.ico",
     "slug": "changelog-widget",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 181,
-    "timeDay": 107,
-    "timeWeek": 129,
-    "timeMonth": 145,
-    "timeYear": 181,
+    "time": 180,
+    "timeDay": 94,
+    "timeWeek": 123,
+    "timeMonth": 143,
+    "timeYear": 180,
     "dailyMinutesDown": {
-      "2026-04-10": 52
+      "2026-04-10": 52,
+      "2026-08-25": 0
     }
   }
 ]
