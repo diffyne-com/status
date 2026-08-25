@@ -1,7 +1,7 @@
 url: https://api.diffyne.com/health
-status: down
-code: 530
-responseTime: 49
-lastUpdated: 2026-08-25T13:38:15.418Z
+status: up
+code: 200
+responseTime: 242
+lastUpdated: 2026-08-25T14:24:11.949Z
 startTime: 2026-04-08T19:46:27.167Z
 generator: Upptime <https://github.com/upptime/upptime>
